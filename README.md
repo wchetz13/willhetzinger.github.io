@@ -53,4 +53,6 @@ End-to-end data ingestion, transformation, and risk reporting pipeline with visu
 
 ## About
 
-Background in pricing strategy, data science, and computer science with a focus on applying quantitative methods to real-world decision systems.
+I work at the intersection of pricing strategy, quantitative modeling, and applied data science.  
+These projects reflect a focus on using mathematical, statistical, and computational methods to analyze uncertainty, model financial risk, and build decision systems that translate theory into practical application.
+
