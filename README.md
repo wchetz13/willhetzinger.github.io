@@ -21,7 +21,7 @@ Monte Carlo option pricing engine with antithetic variates, control variates, Bl
 
 ---
 
-### Options Payoff & Greeks Modeling *(coming next)*
+### Options Payoff & Greeks Modeling 
 
 Analytical and numerical Greeks, payoff diagrams, and sensitivity visualizations for European options.
 
