@@ -27,7 +27,7 @@ Analytical and numerical Greeks, payoff diagrams, and sensitivity visualizations
 
 ---
 
-### Time Series Forecasting of Margin & Returns *(coming next)*
+### Time Series Forecasting of Margin & Returns 
 
 ARIMA/Prophet/ML models applied to financial return forecasting with backtesting and error analysis.
 
